@@ -1,6 +1,6 @@
 # Projects
 
 Dempsey Wade
-rwade222@gmail.com
+Dempsey@BillyBaldwinStudio.com
 
-This repository is to display examples of previous work and projects completed
+This repository is to display examples of previous work and projects completed. 
